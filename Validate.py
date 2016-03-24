@@ -21,3 +21,5 @@ if ( Clubbing_age >= 18 and Clubbing_age <90  ): # Forced to use a range as mult
     print ("Welcome to the Club Ma'am/ Sir!")
 if ( Clubbing_age >= 90 ):
     print ("Unfortunately, we are not able to catter for you!")
+    
+# Capture Validated Ages into a queue    
